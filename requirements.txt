@@ -1,0 +1,5 @@
+numpy==1.19.5
+opencv-python==4.5.2.52
+pillow==8.2.0
+keras-nightly==2.5.0.dev2021032900
+tensorflow==2.5.1
