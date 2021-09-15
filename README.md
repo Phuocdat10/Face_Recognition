@@ -1,8 +1,9 @@
 # Face-Recognition
 Description: A model is applied in real time based on CNN and Keras Applicants. Input will be frame from camera or a video and output will be position of the face of each person. The model can predict age, gender, emotion of person in that camera or video.
+
 ## Models:
 
-- Link download all models:
+- Download models classification form link into folder models:
   https://drive.google.com/drive/folders/1FgE70jLTqqmMbR-JoEt1XxRmzm1wpVzG?usp=sharing
   
 ## Dependencies:
